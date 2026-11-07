@@ -1,0 +1,2 @@
+Log in with username standard_user and password secret_sauce.
+The test passes if you reach the products page and the heading "Products" is visible.

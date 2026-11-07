@@ -1,0 +1,2 @@
+Try to log in with username locked_out_user and password secret_sauce.
+The test passes if the login is rejected and an error message saying the user has been locked out is shown.

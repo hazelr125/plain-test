@@ -1,0 +1,2 @@
+Log in with email {{EMAIL}} and password {{PASSWORD}}.
+The test passes if you reach the customer dashboard and a dashboard heading or account greeting is visible.
